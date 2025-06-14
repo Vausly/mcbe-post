@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url>
+    <loc>https://mb.vausly.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Static Pages -->
+  <url>
+    <loc>https://mb.vausly.com/search</loc>
+  </url>
+
+  <!-- Categories -->
+  <url>
+    <loc>https://mb.vausly.com/worlds</loc>
+  </url>
+  <url>
+    <loc>https://mb.vausly.com/addons</loc>
+  </url>
+  <url>
+    <loc>https://mb.vausly.com/seeds</loc>
+  </url>
+  <url>
+    <loc>https://mb.vausly.com/textures</loc>
+  </url>
+  <url>
+    <loc>https://mb.vausly.com/mods</loc>
+  </url>
+  <url>
+    <loc>https://mb.vausly.com/clients</loc>
+  </url>
+  <url>
+    <loc>https://mb.vausly.com/skins</loc>
+  </url>
+</urlset>
